@@ -1,0 +1,15 @@
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/bin/Debug/net6.0/PBO
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/bin/Debug/net6.0/PBO.deps.json
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/bin/Debug/net6.0/PBO.runtimeconfig.json
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/bin/Debug/net6.0/PBO.dll
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/bin/Debug/net6.0/PBO.pdb
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.csproj.AssemblyReference.cache
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.AssemblyInfoInputs.cache
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.AssemblyInfo.cs
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.csproj.CoreCompileInputs.cache
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.dll
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/refint/PBO.dll
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.pdb
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/PBO.genruntimeconfig.cache
+/Users/jelitaaulia/Desktop/Semester 3/PBO/PBO/obj/Debug/net6.0/ref/PBO.dll
